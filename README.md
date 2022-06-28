@@ -1,3 +1,3 @@
 # Authentication-Start
 
-Practicing Authentications methods with Node.
+Practicing Authentication methods with Node.
